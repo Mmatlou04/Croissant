@@ -4,6 +4,12 @@
     h1{
         color: var(--primary-color);
         text-align: center;
-        
+
+    }
+    body{
+        background-color: rgb(96, 67, 93);
+    }
+    a{
+        color: blueviolet;
     }
 
